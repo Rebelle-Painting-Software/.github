@@ -1,7 +1,7 @@
 # Rebelle – Realistic Painting Software with Natural Media
 
 <p align="center">
-  <img src="https://www.escapedtech.com/wp-content/uploads/2022/11/Rebelle-7-Header.jpg" alt="Rebelle Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Rebelle_logo.png" alt="Rebelle Logo"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ With Rebelle, digital artists can experience true-to-life watercolor diffusion w
 Artists worldwide praise Rebelle for its ability to bridge the gap between traditional and digital art, offering the convenience of digital workflow while maintaining the spontaneous, unpredictable beauty of physical media. Whether you're creating delicate watercolor landscapes, bold acrylic compositions, or detailed ink illustrations, Rebelle provides the tools and responsiveness that serious artists demand.
 
 <p align="center">
-  <img src="https://www.painterartist.com/static/ptr/product/rebelle/rebelle-6-header.jpg" alt="Rebelle Painting Example"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBOP_1QcGCKx5XxgwTkzeUtf2u9EkYkLDeIH3mvCfUn7Tf6AULnMUOXT2vNcE6TWMajrM&usqp=CAU" alt="Rebelle Painting Example"/>
 </p>
 
 ---
